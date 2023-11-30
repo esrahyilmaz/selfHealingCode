@@ -1,0 +1,66 @@
+{
+  "By.tagName: a": {
+    "keyValue": "S645\\97OUM2C",
+    "className": "link-text",
+    "type": "",
+    "title": "",
+    "id": "link",
+    "href": "https://www.example.com/",
+    "textContent": "A link",
+    "tagName": "A",
+    "target": "",
+    "name": "",
+    "location": "(8, 114)",
+    "style": ""
+  },
+  "By.tagName: form": {
+    "keyValue": "JJDGM61_PIMV",
+    "className": "",
+    "title": "",
+    "action": "file:///D:/GithubProj/SHC/selfHealingCode//src/test/resources/WebPages/myPage.html",
+    "id": "form-test",
+    "method": "post",
+    "autocomplete": "on",
+    "textContent": "\n      Input:\n      \n      \n      Select:\n      \n        Option 1\n        Option 2\n      \n      \n      Checkbox:\n      \n      \n      Radio:\n      \n      \n      \n    ",
+    "tagName": "FORM",
+    "target": "",
+    "name": "",
+    "location": "(8, 133)",
+    "style": ""
+  },
+  "By.id: heading": {
+    "keyValue": "6`921\\JG92YB",
+    "className": "title",
+    "title": "",
+    "id": "heading",
+    "textContent": "Heading",
+    "tagName": "H1",
+    "location": "(8, 21)",
+    "style": ""
+  },
+  "By.tagName: p": {
+    "keyValue": "0FSZC5H2T6E6",
+    "className": "text-content",
+    "title": "",
+    "id": "paragraph",
+    "textContent": "This is a paragraph.",
+    "tagName": "P",
+    "location": "(8, 80)",
+    "style": ""
+  },
+  "By.id: image": {
+    "keyValue": "3JLO26917\\G5",
+    "className": "image-content",
+    "title": "",
+    "id": "image",
+    "height": "18",
+    "src": "file:///D:/GithubProj/SHC/selfHealingCode//src/test/resources/WebPages/image.png",
+    "alt": "An image",
+    "textContent": "",
+    "tagName": "IMG",
+    "name": "",
+    "width": "79",
+    "location": "(51, 114)",
+    "style": ""
+  }
+}

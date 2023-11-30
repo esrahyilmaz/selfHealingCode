@@ -1,0 +1,49 @@
+{
+  "By.xpath: //span[contains(text(),'Login')]": {
+    "keyValue": "RePQYoVArZQI",
+    "className": "",
+    "title": "",
+    "id": "",
+    "textContent": "Login",
+    "tagName": "SPAN",
+    "location": "(796, 6)",
+    "style": ""
+  },
+  "By.id: siteNavBar_welcomeBackBarLoggedOut_JicsLoginRedirectContinue": {
+    "keyValue": "wATFu6UriDqS",
+    "className": "btn btn-sm btn-block btn-primary init-user-login-continue-btn",
+    "type": "button",
+    "title": "",
+    "id": "siteNavBar_welcomeBackBarLoggedOut_JicsLoginRedirectContinue",
+    "value": "",
+    "textContent": "Continue",
+    "tagName": "BUTTON",
+    "name": "",
+    "location": "(92, 103)",
+    "style": ""
+  },
+  "By.id: userName": {
+    "keyValue": "tGxNw8JmVXSG",
+    "pattern": "",
+    "className": "form-control user-name",
+    "type": "text",
+    "title": "",
+    "min": "",
+    "id": "userName",
+    "placeholder": "Username",
+    "value": "",
+    "height": "0",
+    "src": "",
+    "max": "",
+    "autocomplete": "",
+    "alt": "",
+    "textContent": "",
+    "tagName": "INPUT",
+    "size": "20",
+    "name": "userName",
+    "width": "0",
+    "location": "(132, 57)",
+    "style": "",
+    "step": ""
+  }
+}
