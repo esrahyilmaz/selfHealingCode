@@ -5,11 +5,11 @@ Feature: Login to portal
   Scenario: 1 Verify able to login to NA
     Given Set Page
       | naLoginPage |
-    Given I open url
+    When I open url
     |https://portal.na.edu/ics/|
-    When Click Login
-    When Enter User
+    And Click Login
+    And Enter User
     |eyilmaz4|
-    And Click Continue Button
+    Then Click Continue Button
 
 
